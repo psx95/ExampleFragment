@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:19:5-50
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\d4c3cb7caaacf0de3128b81330294b164658e94b\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\65e1c6996024d055525fb1488cb457498fc0bcbe\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pranav\.android\build-cache\ec3ea0bcb7509f2419d2e4ac631064e467a61c0d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pranav\.android\build-cache\66f30e08d6006e2c1d9c2c5dc7edf45d28a6ca62\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pranav\.android\build-cache\7bd8f96881d48c824270dc39cb2b77d95d993e98\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pranav\.android\build-cache\fc4dec4b01245177de4a56bc328cb6d8eddc1434\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pranav\.android\build-cache\dc5d0557bf1a975b652be2c3d21eb97eb0e162a1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pranav\.android\build-cache\e53d03cbace0c941cc46ad71c774a7a4c9667989\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pranav\.android\build-cache\cfc8d0fa567ce3efe653f6683a60bb7cce507e72\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:26:9-35
+	android:roundIcon
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:25:9-54
+	android:allowBackup
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentexample.MainActivity
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\d4c3cb7caaacf0de3128b81330294b164658e94b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\65e1c6996024d055525fb1488cb457498fc0bcbe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pranav\.android\build-cache\ec3ea0bcb7509f2419d2e4ac631064e467a61c0d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pranav\.android\build-cache\66f30e08d6006e2c1d9c2c5dc7edf45d28a6ca62\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pranav\.android\build-cache\7bd8f96881d48c824270dc39cb2b77d95d993e98\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pranav\.android\build-cache\fc4dec4b01245177de4a56bc328cb6d8eddc1434\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pranav\.android\build-cache\dc5d0557bf1a975b652be2c3d21eb97eb0e162a1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pranav\.android\build-cache\e53d03cbace0c941cc46ad71c774a7a4c9667989\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pranav\.android\build-cache\cfc8d0fa567ce3efe653f6683a60bb7cce507e72\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\FragmentExample\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\d4c3cb7caaacf0de3128b81330294b164658e94b\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pranav\.android\build-cache\65e1c6996024d055525fb1488cb457498fc0bcbe\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pranav\.android\build-cache\66f30e08d6006e2c1d9c2c5dc7edf45d28a6ca62\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pranav\.android\build-cache\7bd8f96881d48c824270dc39cb2b77d95d993e98\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pranav\.android\build-cache\fc4dec4b01245177de4a56bc328cb6d8eddc1434\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pranav\.android\build-cache\dc5d0557bf1a975b652be2c3d21eb97eb0e162a1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pranav\.android\build-cache\e53d03cbace0c941cc46ad71c774a7a4c9667989\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pranav\.android\build-cache\cfc8d0fa567ce3efe653f6683a60bb7cce507e72\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pranav\.android\build-cache\f14642d5127439ef776f5cb9b99ee7618bcaae82\output\AndroidManifest.xml:27:13-51
