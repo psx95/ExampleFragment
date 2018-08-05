@@ -48,6 +48,10 @@
         "source": "C:\\Users\\pranav\\.android\\build-cache\\f14642d5127439ef776f5cb9b99ee7618bcaae82\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "E:\\Android\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_simple.xml",
+        "source": "E:\\Android\\FragmentExample\\app\\src\\main\\res\\layout\\fragment_simple.xml"
+    },
+    {
         "merged": "E:\\Android\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\pranav\\.android\\build-cache\\7bd8f96881d48c824270dc39cb2b77d95d993e98\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
